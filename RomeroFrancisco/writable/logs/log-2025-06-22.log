@@ -1,0 +1,3099 @@
+DEBUG - 2025-06-22 00:13:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:21:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:26:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:50:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-22 00:50:27 --> Fallo al actualizar perfil ID 14: {"email":"Este correo ya est\u00e1 registrado.","dni":"Este DNI ya est\u00e1 registrado."}
+DEBUG - 2025-06-22 00:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 00:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-22 00:58:39 --> Fallo al actualizar perfil ID 14: {"email":"Este correo ya est\u00e1 registrado.","dni":"Este DNI ya est\u00e1 registrado."}
+DEBUG - 2025-06-22 00:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-22 01:03:11 --> Fallo al actualizar perfil ID 14: {"email":"Este correo ya est\u00e1 registrado.","dni":"Este DNI ya est\u00e1 registrado."}
+DEBUG - 2025-06-22 01:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:03:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:03:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:03:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:06:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:55:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:56:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:56:40 --> Usuario cargado: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 3794881959
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => 
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 01:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 01:56:43 --> Usuario cargado: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 3794881959
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => 
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 15:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:39:56 --> Usuario cargado: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 3794881959
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => 
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 15:40:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 15:41:00 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: perfil/guardar]
+in APPPATH\Controllers\PerfilController.php on line 63.
+ 1 APPPATH\Controllers\PerfilController.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "email"', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\PerfilController.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PerfilController->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerfilController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 15:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 15:43:28 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: perfil/guardar]
+in APPPATH\Controllers\PerfilController.php on line 63.
+ 1 APPPATH\Controllers\PerfilController.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "email"', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\PerfilController.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PerfilController->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerfilController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 15:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:43:31 --> Usuario cargado: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 3794881959
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => 
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 15:43:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 15:43:46 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: perfil/guardar]
+in APPPATH\Controllers\PerfilController.php on line 63.
+ 1 APPPATH\Controllers\PerfilController.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "email"', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\PerfilController.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PerfilController->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerfilController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 15:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:44:18 --> Usuario cargado en index: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 3794881959
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => 
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 15:44:18 --> User ID desde sesion: 
+DEBUG - 2025-06-22 15:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 15:44:36 --> User ID en guardar: 
+DEBUG - 2025-06-22 15:44:36 --> Current User: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 3794881959
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => 
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+CRITICAL - 2025-06-22 15:44:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: perfil/guardar]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1027): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\PerfilController.php(95): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PerfilController->guardar()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerfilController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 16:03:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:04:06 --> Usuario cargado en index: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 3794881959
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => 
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 16:04:06 --> User ID desde sesion: 
+DEBUG - 2025-06-22 16:04:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 16:04:20 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: perfil/guardar]
+in APPPATH\Controllers\PerfilController.php on line 69.
+ 1 APPPATH\Controllers\PerfilController.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "email"', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\PerfilController.php', 69)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PerfilController->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerfilController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 16:05:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:05:51 --> Usuario cargado en index: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 3794881959
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => 
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 16:05:51 --> User ID desde sesion: 
+DEBUG - 2025-06-22 16:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 16:05:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: perfil/guardar]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1027): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\PerfilController.php(97): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PerfilController->guardar()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerfilController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 16:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:06:03 --> Usuario cargado en index: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 3794881959
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => 
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 16:06:03 --> User ID desde sesion: 
+DEBUG - 2025-06-22 16:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 16:06:06 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: perfil/guardar]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1027): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\PerfilController.php(97): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PerfilController->guardar()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerfilController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 16:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:07:39 --> Usuario cargado en index: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 3794881959
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => 
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 16:07:39 --> User ID desde sesion: 
+DEBUG - 2025-06-22 16:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:07:42 --> Usuario cargado en index: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 3794881959
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => 
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 16:07:42 --> User ID desde sesion: 
+DEBUG - 2025-06-22 16:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:07:56 --> Usuario cargado en index: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 4561233023
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => Calle de lolo 1200
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 16:07:56 --> User ID desde sesion: 
+DEBUG - 2025-06-22 16:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:08:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:09:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:09:20 --> Usuario cargado en index: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 4561233023
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => Calle de lolo 1200
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 16:09:20 --> User ID desde sesion: 
+DEBUG - 2025-06-22 16:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:09:22 --> Usuario cargado en index: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 4561233023
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => Calle de lolo 1200
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 16:09:22 --> User ID desde sesion: 
+DEBUG - 2025-06-22 16:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:09:34 --> Usuario cargado en index: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 4561233023
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => Calle de lolo 1200
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 16:09:34 --> User ID desde sesion: 
+DEBUG - 2025-06-22 16:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:11:00 --> Usuario cargado en index: Array
+(
+    [0] => Array
+        (
+            [id_usuario] => 14
+            [id_rol] => 1
+            [nombre] => Lolo
+            [apellido] => Perez
+            [dni] => 11111111
+            [email] => lolo15@gmail.com
+            [telefono] => 4561233023
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$cwVONnGkhIltgDXpAbpsIu1E5rjZPcrKnJn9LGvrSaxPGAMbKJhyS
+            [domicilio] => Calle de lolo 1200
+        )
+
+    [1] => Array
+        (
+            [id_usuario] => 15
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => uno
+            [dni] => 99999999
+            [email] => clienteuno@gmail.com
+            [telefono] => 2345996325
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$2suMvzsnitwVfKcZH/0u1ODXRSLNs5vSWBXXDZL0hz2iCi98QullK
+            [domicilio] => 
+        )
+
+    [2] => Array
+        (
+            [id_usuario] => 16
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => dos
+            [dni] => 88888888
+            [email] => clientedos@gmail.com
+            [telefono] => 3223122332
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$rbDI/oN.wkwwqURKITVxJ.Z8f4mdxUwRi/p7e9osiZdGyjkxnUcse
+            [domicilio] => 
+        )
+
+    [3] => Array
+        (
+            [id_usuario] => 17
+            [id_rol] => 2
+            [nombre] => cliente
+            [apellido] => tres
+            [dni] => 33333333
+            [email] => clientetres@gmail.com
+            [telefono] => 3236696339
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$Wl7m7TaJnAO0wv4uhb.0fODQNMWFqH/Y4MlVEl0oBCUJaCNx4SmTe
+            [domicilio] => 
+        )
+
+    [4] => Array
+        (
+            [id_usuario] => 26
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => pruebaanadiradministrador@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$HLdOaXCDJDO6jBYB4x5ZIOElRG/W7KbtzExC8ZaZ8YSiS67nzU8IW
+            [domicilio] => 
+        )
+
+    [5] => Array
+        (
+            [id_usuario] => 27
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => adminanadir@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$odui0U7WtXy/Pn3ZirSDYO4RoNeB/TjXK3rrvMKdKLNUz86KuC9oG
+            [domicilio] => 
+        )
+
+    [6] => Array
+        (
+            [id_usuario] => 28
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => abc@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$2A/AKkRg/xchlnonMv1gz.SDkoffA7gB9TwTYEX3eaa2sV.f2ccS6
+            [domicilio] => 
+        )
+
+    [7] => Array
+        (
+            [id_usuario] => 29
+            [id_rol] => 1
+            [nombre] => 
+            [apellido] => 
+            [dni] => 
+            [email] => lalalala@gmail.com
+            [telefono] => 
+            [primer_login] => 1
+            [activo] => 1
+            [contrasena] => $2y$10$RMjYtp7I.CCKtxGKimtKkOyriwVFXiQhJ/74Y8KghwEc5ik5wf0X6
+            [domicilio] => 
+        )
+
+    [8] => Array
+        (
+            [id_usuario] => 30
+            [id_rol] => 1
+            [nombre] => administrador
+            [apellido] => nuevo
+            [dni] => 44444444
+            [email] => nuevoadmi15@gmail.com
+            [telefono] => 4563212223
+            [primer_login] => 0
+            [activo] => 1
+            [contrasena] => $2y$10$vw7x8BNFM/totLlY/UsH6.tOngYkpZJrsGFh0AQZ6YfXUuDhD3GKu
+            [domicilio] => 
+        )
+
+)
+
+DEBUG - 2025-06-22 16:11:00 --> User ID desde sesion: 
+DEBUG - 2025-06-22 16:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:11:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:14:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:14:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:15:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:15:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:16:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:17:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:22:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:23:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:23:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:26:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:35:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:38:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 16:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:12:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:12:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:13:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:14:52 --> Datos de sesion en Registro::save: id_rol=1, email=nuevoadminprueba@gmail.com, isAdmin=true
+DEBUG - 2025-06-22 17:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:15:08 --> Datos de sesion en Registro::save: id_rol=1, email=nuevoadminprueba@gmail.com, isAdmin=true
+DEBUG - 2025-06-22 17:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:15:32 --> Datos de sesion en Registro::save: id_rol=1, email=nuevoadminprueba@gmail.com, isAdmin=true
+DEBUG - 2025-06-22 17:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:15:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:16:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:19:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:19:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:19:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:21:19 --> Datos de sesion en Registro::save: id_rol=no definido, email=no definido, isAdmin=false
+DEBUG - 2025-06-22 17:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:28:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:31:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:37:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:40:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:40:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:40:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 17:51:03 --> ParseError: syntax error, unexpected token "-", expecting "function" or "const"
+[Method: GET, Route: contacto/ver_mi_consulta_respondida/14]
+in APPPATH\Controllers\Contacto.php on line 242.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\Contacto.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contacto')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Contacto', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-22 17:51:07 --> ParseError: syntax error, unexpected token "-", expecting "function" or "const"
+[Method: GET, Route: informacionContacto]
+in APPPATH\Controllers\Contacto.php on line 242.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\Contacto.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contacto')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Contacto', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-22 17:51:34 --> ParseError: Unclosed '{' on line 8
+[Method: GET, Route: informacionContacto]
+in APPPATH\Controllers\Contacto.php on line 246.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\Contacto.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contacto')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Contacto', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-22 17:51:53 --> ParseError: syntax error, unexpected token ";", expecting "function" or "const"
+[Method: GET, Route: informacionContacto]
+in APPPATH\Controllers\Contacto.php on line 246.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\Contacto.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contacto')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Contacto', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-22 17:53:27 --> ParseError: syntax error, unexpected token ";", expecting "function" or "const"
+[Method: GET, Route: informacionContacto]
+in APPPATH\Controllers\Contacto.php on line 246.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\Contacto.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contacto')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Contacto', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-22 17:53:28 --> ParseError: syntax error, unexpected token ";", expecting "function" or "const"
+[Method: GET, Route: informacionContacto]
+in APPPATH\Controllers\Contacto.php on line 246.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\Contacto.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Contacto')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Contacto')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Contacto', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 17:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:54:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:54:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 17:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:13:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:13:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:15:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:20:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:23:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:27:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:40:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:52:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:52:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:55:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:55:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:56:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:56:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 19:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 19:59:46 --> ErrorException: Undefined variable $id_usuario
+[Method: GET, Route: editar_perfil]
+in APPPATH\Views\components\header.php on line 21.
+ 1 APPPATH\Views\components\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_usuario', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\components\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\components\\header.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('components/header', [], true)
+ 5 APPPATH\Views\templates\layout.php(16): view('components/header')
+ 6 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templates/layout', [], true)
+ 9 APPPATH\Controllers\PerfilController.php(34): view('templates/layout', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PerfilController->index()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PerfilController))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 19:59:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 19:59:53 --> ErrorException: Undefined variable $id_usuario
+[Method: GET, Route: /]
+in APPPATH\Views\components\header.php on line 21.
+ 1 APPPATH\Views\components\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_usuario', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\components\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\components\\header.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('components/header', [], true)
+ 5 APPPATH\Views\templates\layout.php(16): view('components/header')
+ 6 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templates/layout', [], true)
+ 9 APPPATH\Controllers\Home.php(9): view('templates/layout', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 19:59:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-22 19:59:55 --> Error en FormularioIngreso::index: Undefined variable $id_usuario
+DEBUG - 2025-06-22 20:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-22 20:00:00 --> Error en FormularioIngreso::index: Undefined variable $id_usuario
+DEBUG - 2025-06-22 20:00:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-22 20:00:02 --> Error en FormularioIngreso::index: Undefined variable $id_usuario
+DEBUG - 2025-06-22 20:00:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:00:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 20:00:06 --> ErrorException: Undefined variable $id_usuario
+[Method: GET, Route: /]
+in APPPATH\Views\components\header.php on line 21.
+ 1 APPPATH\Views\components\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_usuario', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\components\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\components\\header.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('components/header', [], true)
+ 5 APPPATH\Views\templates\layout.php(16): view('components/header')
+ 6 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templates/layout', [], true)
+ 9 APPPATH\Controllers\Home.php(9): view('templates/layout', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 20:00:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 20:00:12 --> ErrorException: Undefined variable $id_usuario
+[Method: GET, Route: /]
+in APPPATH\Views\components\header.php on line 21.
+ 1 APPPATH\Views\components\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id_usuario', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\components\\header.php', 21)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\components\\header.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('components/header', [], true)
+ 5 APPPATH\Views\templates\layout.php(16): view('components/header')
+ 6 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\templates\\layout.php')
+ 7 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templates/layout', [], true)
+ 9 APPPATH\Controllers\Home.php(9): view('templates/layout', [...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 20:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:02:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 20:04:41 --> ParseError: syntax error, unexpected token "&"
+[Method: GET, Route: catalogo]
+in APPPATH\Views\components\header.php on line 21.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('components/header', [], true)
+ 3 APPPATH\Views\templates\layout.php(16): view('components/header')
+ 4 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Views\\templates\\layout.php')
+ 5 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('templates/layout', [], true)
+ 7 APPPATH\Controllers\Catalogo.php(116): view('templates/layout', [...])
+ 8 APPPATH\Controllers\Catalogo.php(56): App\Controllers\Catalogo->renderView('Catálogo', 'pages/catalogo/catalogo', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Catalogo->index()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalogo))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 20:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:07:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:07:48 --> toggleCarrito llamado con idProducto: 21, idUsuario: 15
+DEBUG - 2025-06-22 20:07:48 --> Usuario logueado: 15, verificando carrito
+DEBUG - 2025-06-22 20:07:48 --> Agregando producto al carrito: 21
+ERROR - 2025-06-22 20:07:48 --> Sin stock para el producto: 21
+DEBUG - 2025-06-22 20:07:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:07:54 --> toggleCarrito llamado con idProducto: 22, idUsuario: 15
+DEBUG - 2025-06-22 20:07:54 --> Usuario logueado: 15, verificando carrito
+DEBUG - 2025-06-22 20:07:54 --> Agregando producto al carrito: 22
+ERROR - 2025-06-22 20:07:54 --> Fallo al insertar en la tabla carrito: {"id_usuario":"15","id_productos":"22","cantidad":1,"fecha_agregado":"2025-06-22 20:07:54","activo":1} | Errores: []
+DEBUG - 2025-06-22 20:07:54 --> Resultado de addProductToCarrito: Fallo
+ERROR - 2025-06-22 20:07:54 --> Error al agregar producto al carrito: 22
+DEBUG - 2025-06-22 20:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:08:03 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 20:08:15 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 20:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:08:16 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 20:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:08:41 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 20:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:09:28 --> toggleCarrito llamado con idProducto: 25, idUsuario: 15
+DEBUG - 2025-06-22 20:09:28 --> Usuario logueado: 15, verificando carrito
+DEBUG - 2025-06-22 20:09:28 --> Agregando producto al carrito: 25
+ERROR - 2025-06-22 20:09:28 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\xampp\htdocs\RomeroFrancisco\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\RomeroFrancisco\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\RomeroFrancisco\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\RomeroFrancisco\system\BaseModel.php(839): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\RomeroFrancisco\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\RomeroFrancisco\app\Models\CarritoModel.php(77): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\RomeroFrancisco\app\Controllers\Catalogo.php(98): App\Models\CarritoModel->addProductToCarrito('15', '25')
+#9 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(933): App\Controllers\Catalogo->toggleCarrito('25')
+#10 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalogo))
+#11 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\RomeroFrancisco\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\RomeroFrancisco\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\RomeroFrancisco\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+ERROR - 2025-06-22 20:09:28 --> Excepción al insertar en la tabla carrito: Duplicate entry '0' for key 'PRIMARY'
+DEBUG - 2025-06-22 20:09:28 --> Resultado de addProductToCarrito: Fallo
+ERROR - 2025-06-22 20:09:28 --> Error al agregar producto al carrito: 25
+DEBUG - 2025-06-22 20:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:10:47 --> toggleCarrito llamado con idProducto: 25, idUsuario: 15
+DEBUG - 2025-06-22 20:10:47 --> Usuario logueado: 15, verificando carrito
+DEBUG - 2025-06-22 20:10:47 --> Agregando producto al carrito: 25
+ERROR - 2025-06-22 20:10:47 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\xampp\htdocs\RomeroFrancisco\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\RomeroFrancisco\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\RomeroFrancisco\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\RomeroFrancisco\system\BaseModel.php(839): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\RomeroFrancisco\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\RomeroFrancisco\app\Models\CarritoModel.php(77): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\RomeroFrancisco\app\Controllers\Catalogo.php(98): App\Models\CarritoModel->addProductToCarrito('15', '25')
+#9 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(933): App\Controllers\Catalogo->toggleCarrito('25')
+#10 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalogo))
+#11 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\RomeroFrancisco\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\RomeroFrancisco\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\RomeroFrancisco\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+ERROR - 2025-06-22 20:10:47 --> Excepción al insertar en la tabla carrito: Duplicate entry '0' for key 'PRIMARY'
+DEBUG - 2025-06-22 20:10:47 --> Resultado de addProductToCarrito: Fallo
+ERROR - 2025-06-22 20:10:47 --> Error al agregar producto al carrito: 25
+DEBUG - 2025-06-22 20:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:16:43 --> toggleCarrito llamado con idProducto: 25, idUsuario: 15
+DEBUG - 2025-06-22 20:16:43 --> Usuario logueado: 15, verificando carrito
+DEBUG - 2025-06-22 20:16:43 --> Agregando producto al carrito: 25
+ERROR - 2025-06-22 20:16:43 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\xampp\htdocs\RomeroFrancisco\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\RomeroFrancisco\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\RomeroFrancisco\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\RomeroFrancisco\system\BaseModel.php(839): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\RomeroFrancisco\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\RomeroFrancisco\app\Models\CarritoModel.php(77): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\RomeroFrancisco\app\Controllers\Catalogo.php(98): App\Models\CarritoModel->addProductToCarrito('15', '25')
+#9 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(933): App\Controllers\Catalogo->toggleCarrito('25')
+#10 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalogo))
+#11 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\RomeroFrancisco\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\RomeroFrancisco\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\RomeroFrancisco\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+ERROR - 2025-06-22 20:16:43 --> Excepción al insertar en la tabla carrito: Duplicate entry '0' for key 'PRIMARY'
+DEBUG - 2025-06-22 20:16:43 --> Resultado de addProductToCarrito: Fallo
+ERROR - 2025-06-22 20:16:43 --> Error al agregar producto al carrito: 25
+DEBUG - 2025-06-22 20:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:24:20 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 20:24:27 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 20:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:24:27 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 20:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:26:50 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 20:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 20:26:54 --> Carrito::index llamado, idUsuario: 15
+CRITICAL - 2025-06-22 20:26:57 --> ErrorException: Undefined variable $data
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Catalogo.php on line 26.
+ 1 APPPATH\Controllers\Catalogo.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\Catalogo.php', 26)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Catalogo->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalogo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 20:28:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 20:28:57 --> ErrorException: Undefined property: App\Controllers\Catalogo::$db
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Catalogo.php on line 25.
+ 1 APPPATH\Controllers\Catalogo.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Catalogo::$db', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\Catalogo.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Catalogo->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalogo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-22 21:39:42 --> ErrorException: Undefined property: App\Controllers\Catalogo::$db
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Catalogo.php on line 25.
+ 1 APPPATH\Controllers\Catalogo.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Catalogo::$db', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\Catalogo.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Catalogo->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalogo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 21:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 21:52:29 --> ErrorException: Undefined property: App\Controllers\Catalogo::$db
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Catalogo.php on line 25.
+ 1 APPPATH\Controllers\Catalogo.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Catalogo::$db', 'C:\\xampp\\htdocs\\RomeroFrancisco\\app\\Controllers\\Catalogo.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Catalogo->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalogo))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 21:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-22 21:54:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "catalogo.php"
+[Method: GET, Route: catalogo]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('catalogo.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('catalogo', [], true)
+ 3 APPPATH\Controllers\Catalogo.php(31): view('catalogo', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Catalogo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalogo))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-22 21:54:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "catalogo.php"
+[Method: GET, Route: catalogo]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('catalogo.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('catalogo', [], true)
+ 3 APPPATH\Controllers\Catalogo.php(31): view('catalogo', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Catalogo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalogo))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 22:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-22 22:01:06 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\xampp\htdocs\RomeroFrancisco\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\RomeroFrancisco\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\RomeroFrancisco\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\RomeroFrancisco\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\RomeroFrancisco\system\BaseModel.php(839): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\RomeroFrancisco\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\RomeroFrancisco\app\Models\CarritoModel.php(77): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\RomeroFrancisco\app\Controllers\Catalogo.php(158): App\Models\CarritoModel->addProductToCarrito('15', '25', 1)
+#9 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(933): App\Controllers\Catalogo->toggle('25')
+#10 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalogo))
+#11 C:\xampp\htdocs\RomeroFrancisco\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\RomeroFrancisco\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\RomeroFrancisco\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\RomeroFrancisco\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+ERROR - 2025-06-22 22:01:06 --> Excepción al insertar en la tabla carrito: Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2025-06-22 22:01:06 --> Fallo al insertar en la tabla carrito: {"id_usuario":"15","id_productos":"25","cantidad":1} | Errores: {"CodeIgniter\\Database\\MySQLi\\Connection":"Duplicate entry '0' for key 'PRIMARY'"}
+DEBUG - 2025-06-22 22:06:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:06:43 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:06:49 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 22:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:06:49 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:10:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:10:03 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:10:10 --> Carrito::eliminar llamado con idProducto: 25, idUsuario: 15
+DEBUG - 2025-06-22 22:10:10 --> Producto eliminado del carrito en DB: 25
+DEBUG - 2025-06-22 22:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:10:10 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:10:27 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:10:40 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 22:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:10:40 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:12:06 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:12:19 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 22:12:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:12:20 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:17:27 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:18:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:18:09 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:18:14 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 22:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:18:14 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:19:01 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 22:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:19:01 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:19:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:19:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:19:58 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:20:05 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 22:20:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:20:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:20:05 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:25:39 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:32:54 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 22:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:32:55 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:33:10 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 22:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:33:10 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:33:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:33:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:33:25 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:33:28 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 22:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:33:28 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:44:50 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 22:44:55 --> Carrito::comprar llamado
+DEBUG - 2025-06-22 22:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 22:44:55 --> Carrito::index llamado, idUsuario: 15
+DEBUG - 2025-06-22 23:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 23:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 23:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 23:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-22 23:01:19 --> Stock del producto 22 aumentado a 5. Activo: 1
+ERROR - 2025-06-22 23:01:19 --> Fallo al marcar producto 22 como inactivo en carrito de usuario 15. Errores: {"cantidad":"La cantidad debe ser al menos 1."}
+INFO - 2025-06-22 23:01:19 --> Stock del producto 22 actualizado a 4. Activo: 1
+ERROR - 2025-06-22 23:01:19 --> Error al quitar producto 22 del carrito de DB. Errores CarritoModel: {"cantidad":"La cantidad debe ser al menos 1."}
+DEBUG - 2025-06-22 23:01:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-22 23:01:25 --> Stock del producto 25 aumentado a 7. Activo: 1
+ERROR - 2025-06-22 23:01:25 --> Fallo al marcar producto 25 como inactivo en carrito de usuario 15. Errores: {"cantidad":"La cantidad debe ser al menos 1."}
+INFO - 2025-06-22 23:01:25 --> Stock del producto 25 actualizado a 6. Activo: 1
+ERROR - 2025-06-22 23:01:25 --> Error al quitar producto 25 del carrito de DB. Errores CarritoModel: {"cantidad":"La cantidad debe ser al menos 1."}
+CRITICAL - 2025-06-22 23:01:29 --> Error: Class "App\Models\FacturasModel" not found
+[Method: GET, Route: carrito]
+in APPPATH\Controllers\Carrito.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Carrito->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-22 23:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 23:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 23:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-22 23:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
